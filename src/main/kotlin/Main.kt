@@ -1,6 +1,6 @@
 @file:Suppress("RedundantNullableReturnType")
 
-package test.text
+package academy.kt
 
 import academy.kt.GenerateInterface
 
